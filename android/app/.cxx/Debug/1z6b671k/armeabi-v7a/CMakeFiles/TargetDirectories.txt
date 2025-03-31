@@ -1,0 +1,2 @@
+C:/Users/eftys/OneDrive/Documents/clean_architecture_with_mvvm/android/app/.cxx/Debug/1z6b671k/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/eftys/OneDrive/Documents/clean_architecture_with_mvvm/android/app/.cxx/Debug/1z6b671k/armeabi-v7a/CMakeFiles/rebuild_cache.dir
