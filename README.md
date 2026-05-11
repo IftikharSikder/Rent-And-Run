@@ -122,12 +122,6 @@ Contributions are welcome. If you find a bug or want to suggest an improvement, 
 
 ---
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 ## Author
 
 Developed by [IftikharSikder](https://github.com/IftikharSikder).
