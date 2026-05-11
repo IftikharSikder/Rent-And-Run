@@ -130,4 +130,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Author
 
-Developed by [SyedMashruk](https://github.com/IftikharSikder).
+Developed by [IftikharSikder](https://github.com/IftikharSikder).
